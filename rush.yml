@@ -7,7 +7,7 @@ description: 'Extension component for WakeOnLan. <br> Inspired by <a href="http:
 
 version:
   number: 1
-  name: 'v1'
+  name: 'v1.0.0'
 
 authors:
   - WatermelonIce

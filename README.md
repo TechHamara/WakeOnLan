@@ -19,4 +19,4 @@ Blocks | Details | Parameters
 3. Execute `rush build` or `rush build -o` in root directory of this repo (JDK 8 or lower).
 
 # Change log
-* `v1` (<time datetime="2022-05-24">`24/05/2022`</time>):  First release
+* `v1.0.0` (<time datetime="2022-05-24">`24/05/2022`</time>):  First release
