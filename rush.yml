@@ -4,6 +4,7 @@
 ---
 name: WakeOnLan
 description: 'Extension component for WakeOnLan. <br> Inspired by <a href="http://www.jibble.org/wake-on-lan/">Simple Java Implementation of Wake-on-LAN</a> <br> Created using Rush.'
+homepage: 'https://github.com/WatermelonOof/WakeOnLan'
 
 version:
   number: 1
